@@ -31,10 +31,19 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Portfolio Website (HTML, CSS, Wordpress)** – Personal portfolio showcasing my work [https://shilpam-portfolio.netlify.app/]
-- 🔹 **Restaurant App (Vue.js)** – Dynamic UI with API integration  [https://resto-project-1k2n.onrender.com/]
-- 🔹 **Currency Converter (React.js)** – Real-time currency conversion using API  
-- 🔹 **Student Database Management System (php)** – Built with Python & Tkinter  
+- 🔹 **Portfolio Website (HTML, CSS, Wordpress)** – Personal portfolio showcasing my work
+     🔗 Live: https://shilpam-portfolio.netlify.app/
+     💻 Code: https://github.com/its-shilpa/my-portfolio.git
+     
+- 🔹 **Restaurant App (Vue.js)** – Dynamic UI with API integration 
+     🔗 Live: https://resto-project-1k2n.onrender.com/
+     💻 Code: https://github.com/its-shilpa/vue-resto-project.git
+
+- 🔹 **Currency Converter (React.js)** – Real-time currency conversion using API
+     💻 Code: https://github.com/its-shilpa/currency-converter.git
+  
+- 🔹 **Student Database Management System (php)** – Built with Python & Tkinter
+     💻 Code: https://github.com/its-shilpa/Student-Database-Management-System.git
  
 
 ---
