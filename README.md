@@ -4,10 +4,12 @@
 
 **Frontend Developer** · Building responsive, dynamic, and user-centered web experiences
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shilpam--portfolio.netlify.app-4F46E5?style=flat-square&logo=netlify&logoColor=white)](https://shilpam-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shilpa--mukherjee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpa-mukherjee)
-[![GitHub](https://img.shields.io/badge/GitHub-its--shilpa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/its-shilpa)
-[![Email](https://img.shields.io/badge/Email-shilpamukherjee625%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shilpamukherjee625@gmail.com)
+<br/>
+
+<a href="https://shilpam-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shilpa-mukherjee"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/its-shilpa"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:shilpamukherjee625@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -56,43 +58,41 @@ I enjoy the intersection of design and engineering — where thoughtful UI meets
 ### 🎵 Music App — React.js
 A modern music player UI with full playback controls and a clean interface.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=netlify&logoColor=white)](https://reactjs-musicapp.netlify.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/its-shilpa/Music_Player.git)
+<a href="https://reactjs-musicapp.netlify.app/"><img src="https://img.shields.io/badge/Live Demo-4F46E5?style=flat-square&logo=netlify&logoColor=white" /></a>
+<a href="https://github.com/its-shilpa/Music_Player"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
 
 ### 🍽️ Restaurant App — Vue.js
 A dynamic restaurant UI with real-time API integration and an intuitive browsing experience.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-42b883?style=flat-square&logo=vuedotjs&logoColor=white)](https://resto-project-1k2n.onrender.com/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/its-shilpa/vue-resto-project.git)
+<a href="https://resto-project-1k2n.onrender.com/"><img src="https://img.shields.io/badge/Live Demo-42b883?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
+<a href="https://github.com/its-shilpa/vue-resto-project"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
 
 ### 🌐 Portfolio Website — HTML, CSS, WordPress
 Personal developer portfolio showcasing projects, skills, and contact information.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://shilpam-portfolio.netlify.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/its-shilpa/my-portfolio.git)
+<a href="https://shilpam-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Live Demo-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
+<a href="https://github.com/its-shilpa/my-portfolio"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
 
 ### 🗄️ Student Database Management System — PHP
 A web-based system for managing student records with CRUD functionality.
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/its-shilpa/Student-Database-Management-System.git)
+<a href="https://github.com/its-shilpa/Student-Database-Management-System"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-![Shilpa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-shilpa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-shilpa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
+## 📊 GitHub Stats 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-shilpa&layout=compact&theme=tokyonight)
 </div>
+
+
 
 ---
 
