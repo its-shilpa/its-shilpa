@@ -74,7 +74,7 @@ A dynamic restaurant UI with real-time API integration and an intuitive browsing
 ### 🌐 Portfolio Website — HTML, CSS, WordPress
 Personal developer portfolio showcasing projects, skills, and contact information.
 
-<a href="https://shilpam-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Live Demo-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
+<a href="https://shilpam-portfolioo.netlify.app/"><img src="https://img.shields.io/badge/Live Demo-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
 <a href="https://github.com/its-shilpa/my-portfolio"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
