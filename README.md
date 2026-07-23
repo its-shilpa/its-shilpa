@@ -105,9 +105,11 @@ I'm a frontend developer with a passion for turning ideas into clean, functional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=its-shilpa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-shilpa&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=its-shilpa&theme=tokyonight&hide_border=true&background=00000000&fire=BB86FC&currStreakLabel=BB86FC" width="700"/>
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=its-shilpa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-shilpa&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/><br/>
