@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://shilpam-portfolio.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=React.js+%7C+Vue.js+Developer;Turning+Ideas+Into+Interfaces;Building+Responsive+%26+Dynamic+UIs;Open+to+Freelance+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=React.js+%7C+Vue.js+%7C+WordPress+Developer;Turning+Ideas+Into+Interfaces;Building+Responsive+%26+Dynamic+UIs;Open+to+Freelance+%26+Full-Time+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
