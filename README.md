@@ -82,10 +82,10 @@ I'm a frontend developer with a passion for turning ideas into clean, functional
 <td width="50%">
 
 ### 🌐 Portfolio Website
-**HTML, CSS, WordPress** · Personal developer portfolio showcasing projects & skills.
+**React js** · Personal developer portfolio showcasing projects & skills.
 
-<a href="https://shilpam-portfolioo.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
-<a href="https://github.com/its-shilpa/my-portfolio"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://react-space-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
+<a href="https://github.com/its-shilpa/react-space-portfolio"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
