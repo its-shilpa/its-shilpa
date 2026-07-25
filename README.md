@@ -82,10 +82,10 @@ I'm a frontend developer with a passion for turning ideas into clean, functional
 <td width="50%">
 
 ### 🌐 Portfolio Website
-**React js** · Personal developer portfolio showcasing projects & skills.
+**HTML, CSS, WordPress** · Personal developer portfolio showcasing projects & skills.
 
-<a href="https://react-space-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
-<a href="https://github.com/its-shilpa/react-space-portfolio"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://shilpam-portfolioo.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
+<a href="https://github.com/its-shilpa/my-portfolio"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
@@ -105,7 +105,7 @@ I'm a frontend developer with a passion for turning ideas into clean, functional
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=its-shilpa&theme=tokyonight&hide_border=true&background=00000000&fire=BB86FC&currStreakLabel=BB86FC" width="700"/>
+<img src="https://streak-stats.demolab.com/?user=its-shilpa&theme=tokyonight&hide_border=true&background=00000000&fire=BB86FC&currStreakLabel=BB86FC&utcOffset=5.5" width="700"/>
 
 <br/><br/>
 
